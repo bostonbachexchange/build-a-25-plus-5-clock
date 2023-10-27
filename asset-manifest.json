@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/build-a-25-plus-5-clock/static/css/main.3dc9c687.css",
+    "main.js": "/build-a-25-plus-5-clock/static/js/main.26d31fcd.js",
+    "static/js/787.1f5f3708.chunk.js": "/build-a-25-plus-5-clock/static/js/787.1f5f3708.chunk.js",
+    "index.html": "/build-a-25-plus-5-clock/index.html",
+    "main.3dc9c687.css.map": "/build-a-25-plus-5-clock/static/css/main.3dc9c687.css.map",
+    "main.26d31fcd.js.map": "/build-a-25-plus-5-clock/static/js/main.26d31fcd.js.map",
+    "787.1f5f3708.chunk.js.map": "/build-a-25-plus-5-clock/static/js/787.1f5f3708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc9c687.css",
+    "static/js/main.26d31fcd.js"
+  ]
+}
